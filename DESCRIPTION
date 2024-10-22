@@ -1,0 +1,12 @@
+Package: ParaGraph
+Type: Package
+Title: Detemines if Data Meets Parametric Conditions and Analyzes and Graphs Accordingly
+Version: 0.2.1
+Author: Chris Brennan
+Maintainer: <chrisbrennan87@gmail.com>
+Description: This package takes a quantitative and a qualitative variable and determine if they meet the assumptions for a one-way anova. If so, an anova is run and results, along with a post-hoc tukey test are shown. If data does not meet parametric assumptions than a kruskall wallis and subsequent dunn test are displayed. Data can be graphed producing a bar graph depicting the mean and SEM of "x" with the bars coloured by "y". Compact letters are also displayed above each bar.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: ggplot2, plotrix, FSA, multcomp, multcompView, car, dplyr, rcompanion
+RoxygenNote: 7.3.2

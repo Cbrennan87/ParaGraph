@@ -1,0 +1,11 @@
+exportPattern("^[[:alpha:]]+")
+import(ggplot2)
+importFrom("plotrix", "std.error")
+import(multcomp)
+importFrom("car", "leveneTest")
+importFrom("multcompView", "multcompLetters")
+import(dplyr)
+importFrom("FSA", "dunnTest")
+importFrom("rcompanion", "cldList")
+importFrom("stats", "TukeyHSD", "aov", "kruskal.test", "quantile",
+               "shapiro.test")
