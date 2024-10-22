@@ -10,3 +10,5 @@ Encoding: UTF-8
 LazyData: true
 Depends: ggplot2, plotrix, FSA, multcomp, multcompView, car, dplyr, rcompanion
 RoxygenNote: 7.3.2
+URL: https://github.com/Cbrennan87/ParaGraph
+BugReports: https://github.com/Cbrennan87/ParaGraph/issues
