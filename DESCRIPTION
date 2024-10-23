@@ -1,6 +1,6 @@
 Package: ParaGraph
 Type: Package
-Title: Detemines if Data Meets Parametric Conditions and Analyzes and Graphs Accordingly
+Title: Determines if Data Meets Parametric Conditions and Analyzes and Graphs Accordingly
 Version: 0.2.1
 Author: Chris Brennan
 Maintainer: <chrisbrennan87@gmail.com>
